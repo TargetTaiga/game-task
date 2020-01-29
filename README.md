@@ -20,7 +20,7 @@ The game consists of the game field, player’s unit, enemy units, and bonus uni
 
 ### Instructions
 
-*  Use `` npm start `` to run the application locally.
+*  Install dependencies using ``npm install`` and use `` npm start `` to run the application locally.
 
 * Do not add ``script`` tags into html. Remain _index.js_ connected and import other modules using ES6 ``import`` keyword from your _index.js_ file.
 _index.js_ is used as an entry-point to the application, other project's files and folders are up to you.
