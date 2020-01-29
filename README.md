@@ -16,7 +16,7 @@ The game consists of the game field, player’s unit, enemy units, and bonus uni
 * The game should be implemented in JS.
 * The view should be implemented using any possible combination of Canvas, SVG and DOM elements.
 * The view should not be coupled with the game model remaining a possibility to change rendering technology at any time.
-* The usage of any frameworks and libraries is strictly prohibited (exceptions are possible only in case if the need has been prooved and confirmed by mentors).
+* The usage of any frameworks and libraries is strictly prohibited (exceptions are possible only in case if the need has been proven and confirmed by mentors).
 
 ### Instructions
 
